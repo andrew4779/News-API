@@ -9,10 +9,9 @@ class NewsArticleTest(unittest.TestCase):
       "Andrew",
       "Progmamers Life",
       "day to day life of a coder",
-      "https://codetolife.com",
-      "https://urltoimage.com",
+      "https://www.fool.com.au/2022/02/27/are-these-2-leading-etfs-great-buys-in-march-2022/",
+      "https://www.fool.com.au/wp-content/uploads/2022/02/etf-18-16.9.jpg",
       "2022-01-30T08:25:00Z",
-      "TAIPEI, Jan 30 (Reuters) - Taiwan Vice President William Lai used his final day in the United States to repeat an accusation that China blocked the island from obtaining COVID-19 vaccines last year"
     )
   
 
