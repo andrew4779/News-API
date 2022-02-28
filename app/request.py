@@ -1,8 +1,4 @@
-# from app import app
 import urllib.request, json
-
-# from tests.news_article_test import NewsArticle
-# from app.news_source_test import NewsSource
 
 from .models import NewsArticle, NewsSource
 
